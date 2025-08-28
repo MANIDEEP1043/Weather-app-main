@@ -17,6 +17,14 @@ body {
   min-height: 100vh;
   padding: 1rem;
 }
+{
+  background-image: url("https://res.cloudinary.com/dwzbgzz3l/image/upload/v1755854127/WhatsApp_Image_2025-08-22_at_14.40.08_f9d511ef_o4g2wf.jpg"); /* Path to your image */
+  background-size: cover;   /* Image covers the entire page */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Prevent repeating */
+  height: 100vh; /* Full screen height */
+  margin: 0;
+}
 
 /* Main App Container */
 .container {
